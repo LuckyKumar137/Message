@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252421214946",
+    "project_id": "message-35826",
+    "storage_bucket": "message-35826.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252421214946:android:1f843b01cf67bfe60cc4bb",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-kvd4nrQp9qbZJRymx4k0iXhiBonjyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

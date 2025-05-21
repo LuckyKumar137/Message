@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Define your custom theme for the app -->
+    <style name="Theme.Message" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- This line makes sure the keyboard doesn't hide the EditText when it's focused -->
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <!-- You can adjust background color, text color, and other properties here -->
+
+
+
+    </style>
+
+</resources>
